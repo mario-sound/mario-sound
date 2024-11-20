@@ -1,8 +1,6 @@
-# Hey 👋 What's up? 😎
+### My name is Mario and I'm a Audio Engineer, Junior Developer and tech lover, from Madrid but based in Barcelona. ###
 
-#### My name is Mario and I'm a Audio Engineer, Junior Developer and tech lover, from Madrid but based in Barcelona.
-
-## About me:
+## About me: ##
 
 I'm currently learning Python, JavaScript, C#, SQL, React, Node.js Java, HTML, CSS... I want to be the best Full Stack Developer. Naaah... But a really good one. 😁<br>🎯 Goals: Creating tools to make your life and work easiest. I love to resolve problems. Best if they are audio issues. 🎧
 
