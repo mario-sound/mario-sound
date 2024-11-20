@@ -1,4 +1,4 @@
-### My name is Mario and I'm a Audio Engineer, Junior Developer and tech lover. I'm from Madrid but based in Barcelona. ###
+### I'm Mario, Audio Specialist, Junior Developer and tech lover. I'm from Madrid but based in Barcelona. ###
 
 #### About me: ####
 
