@@ -10,8 +10,7 @@
 
 I'm currently learning Python, JavaScript, C#, SQL, React, Node.js Java, HTML, CSS... I want to be the best Full Stack Developer. Naaah... But a really good one. 😁<br>🎯 Goals: Creating tools to make your life and work easiest. I love to resolve problems. Best if they are audio issues. 🎧
 
-> 🎲 Fun fact: I'm DJ. [My IG, for curious people. xD] <a href=https://www.instagram.com/mariosonando/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mariosonando/" height="30" width="20" /></a>
-<br>
+> 🎲 Fun fact: I'm DJ. [My IG, for curious people. xD] <a href=https://www.instagram.com/mariosonando/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mariosonando/" height="30" width="20" /></a> <br>
 > 🏃‍♂️Lifestyle: I love to make sport. I love boxing! 🥊
 
 - 🔭 I’m currently working on [Digital Audio Tips](https://digitalaudiotips.com/)
