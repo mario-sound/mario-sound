@@ -20,7 +20,7 @@ Connect with me:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Digital_Audio_Tips-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@digitalaudiotips)
 <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario_Sanchez-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mariosanchezsonido/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario_Sanchez-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mario.sanchez.cos/)
 <br>
 [![Instagram](https://img.shields.io/badge/Instagram-Digital_Audio_Tips-purple?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/digitalaudiotips/)
 <br>
